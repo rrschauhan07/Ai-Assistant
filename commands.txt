@@ -1,0 +1,9 @@
+create virtual env
+
+pip install speechrecognition pyaudio
+pip install setuptools
+pip install pyttsx3
+pip3 install pocketsphinx
+
+pip install openai
+pip install python-dotenv
